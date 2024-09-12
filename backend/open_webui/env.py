@@ -79,7 +79,7 @@ WEBUI_NAME = os.environ.get("WEBUI_NAME", "Open WebUI")
 
 WEBUI_URL = os.environ.get("WEBUI_URL", "http://localhost:3000")
 
-WEBUI_FAVICON_URL = "https://applyz-main-bucket.fra1.cdn.digitaloceanspaces.com/aimw/website/favicon/favicon.png"
+WEBUI_FAVICON_URL = "https://applyz-main-bucket.fra1.cdn.digitaloceanspaces.com/aimw/website/logo.png"
 
 
 ####################################
