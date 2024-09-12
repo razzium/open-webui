@@ -1,5 +1,7 @@
 services:
   ollama:
+    ports:
+      - 11434:8080
     volumes:
       - ollama:/root/.ollama
     container_name: ollama
