@@ -14,7 +14,7 @@ services:
     environment:
       - 'OLLAMA_BASE_URL=http://ollama:11434'
       - 'WEBUI_SECRET_KEY='
-      - 'WEBUI_NAME=PedagoAI'  # Add this line
+      - 'WEBUI_NAME=AIMW'  # Add this line
     extra_hosts:
       - host.docker.internal:host-gateway
     restart: unless-stopped
